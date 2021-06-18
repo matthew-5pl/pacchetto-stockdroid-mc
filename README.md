@@ -1,2 +1,2 @@
 # pacchetto-stockdroid-mc
-Pacchetto Risorse per Minecraft dedicato a Stockdroid
+(WIP) Pacchetto Risorse per Minecraft dedicato a Stockdroid
